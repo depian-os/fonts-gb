@@ -1,0 +1,64 @@
+Source: fonts-gb
+Section: fonts
+Priority: optional
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Build-Depends: debhelper (>= 12)
+Standards-Version: 4.1.3
+Homepage: http://www.deepin.org
+#Vcs-Browser: https://salsa.debian.org/debian/fonts-gb
+#Vcs-Git: https://salsa.debian.org/debian/fonts-gb.git
+
+Package: fonts-gb
+Architecture: all
+Multi-Arch: foreign
+Depends:
+ fonts-gb-fs (= ${Version}),
+ fonts-gb-st (= ${Version}),
+ fonts-gb-ht (= ${Version}),
+ fonts-gb-kt (= ${Version}),
+ fonts-gb-xbs (= ${Version}),
+ fonts-gb-st-super (= ${Version})
+Description: GB18030 fonts
+ GB18030 fonts for dependency
+
+Package: fonts-gb-fs
+Architecture: all
+Multi-Arch: foreign
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: GB18030 fonts
+ GB18030 fs fonts
+
+Package: fonts-gb-st
+Architecture: all
+Multi-Arch: foreign
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: GB18030 fonts
+ GB18030 st fonts
+
+Package: fonts-gb-ht
+Architecture: all
+Multi-Arch: foreign
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: GB18030 fonts
+ GB18030 ht fonts
+
+Package: fonts-gb-kt
+Architecture: all
+Multi-Arch: foreign
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: GB18030 fonts
+ GB18030 kt fonts
+
+Package: fonts-gb-xbs
+Architecture: all
+Multi-Arch: foreign
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: GB18030 fonts
+ GB18030 xbs fonts
+
+Package: fonts-gb-st-super
+Architecture: all
+Multi-Arch: foreign
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: GB18030 fonts
+ GB18030 st-super fonts

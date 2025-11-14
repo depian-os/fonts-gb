@@ -1,0 +1,3 @@
+#!/bin/bash
+GB_ST_SUPER_GB18030.ttf /usr/share/fonts/fonts-gb/
+GB_ST_SUPER_EXTRA_GB18030.ttf /usr/share/fonts/fonts-gb/

@@ -1,0 +1,35 @@
+fonts-gb (1.5-deepin1) unstable; urgency=medium
+
+  * add version restrictions.
+
+ -- liuzhiyuan <liuzhiyuan@uniontech.com>  Thu, 19 Dec 2024 10:14:10 +0800
+
+fonts-gb (1.4-deepin1) unstable; urgency=medium
+
+  * add new fonts GB_ST_SUPER_EXTRA_GB18030.ttf.
+
+ -- liuzhiyuan <liuzhiyuan@uniontech.com>  Tue, 05 Nov 2024 13:10:50 +0800
+
+fonts-gb (1.3-deepin1) unstable; urgency=medium
+
+  * update GB_HT_GB18030.ttf.
+
+ -- yanghaibo <yanghaibo@uniontech.com>  Thu, 21 Sep 2023 14:21:08 +0800
+
+fonts-gb (1.2-deepin1) unstable; urgency=medium
+
+  * Add KongXi Radicals
+
+ -- Ding Heng <dingheng@uniontech.com>  Thu, 23 Feb 2023 09:44:51 +0800
+
+fonts-gb (1.1-deepin1) unstable; urgency=medium
+
+  * add depend.
+
+ -- xinpeng.wang <wangxinpeng@uniontech.com>  Fri, 06 Jan 2023 10:41:02 +0800
+
+fonts-gb (1.0-deepin1) unstable; urgency=medium
+
+  * Initial release
+
+ -- Ding Heng <dingheng@uniontech.com>  Tue, 03 Jan 2023 17:12:46 +0800
